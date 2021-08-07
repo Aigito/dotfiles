@@ -67,3 +67,5 @@ export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR=code
 export BROWSER='"/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"'
 sudo /etc/init.d/postgresql start
+
+alias gss="git status -v"
